@@ -18,7 +18,7 @@
     "@supabase/supabase-js": "^2.x",
     "@supabase/ssr": "^0.x",
     "zustand": "^4.x",
-    "next-intl": "^1.x",
+    "next-intl": "^3.26.3",
     "react-markdown": "^8.x",
     "rehype-highlight": "^6.x",
     "jspdf": "^2.x",
