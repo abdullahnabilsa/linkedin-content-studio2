@@ -1,0 +1,95 @@
+{
+  "pageTitle": "الإعدادات",
+  "tabs": {
+    "profile": "الملف الشخصي",
+    "professional": "الملف المهني",
+    "apiKeys": "مفاتيح API",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "invite": "رمز الدعوة"
+  },
+  "common": {
+    "cancel": "إلغاء"
+  },
+  "profile": {
+    "title": "الملف الشخصي",
+    "description": "إدارة معلومات حسابك وتفضيلاتك",
+    "email": "البريد الإلكتروني",
+    "displayName": "الاسم المعروض",
+    "displayNamePlaceholder": "أدخل اسمك المعروض",
+    "joinedAt": "تاريخ الانضمام: {date}",
+    "profileCompletion": "اكتمال الملف الشخصي",
+    "save": "حفظ التغييرات",
+    "saved": "تم الحفظ!",
+    "roleAdmin": "مدير",
+    "rolePremium": "مميز",
+    "roleFree": "مجاني",
+    "expiresAt": "ينتهي في: {date}"
+  },
+  "professional": {
+    "title": "الملف المهني",
+    "description": "أكمل ملفك المهني لتحسين جودة المحتوى المُولَّد بالذكاء الاصطناعي",
+    "comingSoon": "قريبًا",
+    "comingSoonDescription": "سيتم إضافة إدارة الملف المهني قريبًا"
+  },
+  "apiKeys": {
+    "title": "مفاتيح API الخاصة",
+    "description": "أضف مفاتيح API الخاصة بك للاستمتاع باستخدام غير محدود بدون حدود",
+    "noKeys": "لا توجد مفاتيح API",
+    "noKeysDescription": "أضف مفتاح API خاص بك للبدء",
+    "addKey": "إضافة مفتاح جديد",
+    "addKeyTitle": "إضافة مفتاح API",
+    "limitReached": "تم الوصول للحد الأقصى من المفاتيح",
+    "upgradeForMore": "ترقية حسابك لإضافة المزيد من المفاتيح",
+    "refresh": "تحديث",
+    "active": "نشط",
+    "inactive": "غير نشط",
+    "neverUsed": "لم يُستخدم بعد",
+    "justNow": "الآن",
+    "minutesAgo": "منذ {count} دقيقة",
+    "hoursAgo": "منذ {count} ساعة",
+    "daysAgo": "منذ {count} يوم",
+    "delete": "حذف",
+    "confirmDelete": "اضغط مرة أخرى للتأكيد",
+    "selectPlatform": "اختر المنصة",
+    "keyLabel": "مفتاح API",
+    "keyPlaceholder": "أدخل مفتاح API الخاص بك",
+    "labelField": "التسمية",
+    "labelPlaceholder": "اسم تعريفي للمفتاح",
+    "formatHint": "الصيغة المتوقعة: {format}",
+    "saving": "جارِ الحفظ...",
+    "save": "حفظ المفتاح",
+    "addSuccess": "تم إضافة مفتاح API لـ {platform} بنجاح!",
+    "allPlatformsAdded": "تم إضافة مفاتيح لجميع المنصات",
+    "helpTitle": "كيف تحصل على مفتاح API؟",
+    "helpDescription": "اضغط على اسم المنصة أدناه للانتقال إلى صفحة مفاتيح API الخاصة بها",
+    "errors": {
+      "selectPlatform": "اختر منصة أولاً",
+      "enterKey": "أدخل مفتاح API",
+      "enterLabel": "أدخل تسمية للمفتاح",
+      "addFailed": "فشل في إضافة المفتاح. حاول مرة أخرى."
+    }
+  },
+  "language": {
+    "title": "اللغة",
+    "description": "اختر لغة واجهة التطبيق"
+  },
+  "theme": {
+    "title": "المظهر",
+    "description": "اختر المظهر المفضل لديك"
+  },
+  "invite": {
+    "title": "رمز الدعوة",
+    "description": "أدخل رمز الدعوة للترقية إلى الحساب المميز",
+    "placeholder": "أدخل رمز الدعوة",
+    "activate": "تفعيل",
+    "alreadyPremium": "حسابك مميز بالفعل!",
+    "validUntil": "صالح حتى: {date}",
+    "success": "تم تفعيل رمز الدعوة بنجاح! تمت الترقية إلى الحساب المميز.",
+    "invalidCode": "رمز الدعوة غير صالح",
+    "codeExhausted": "تم استنفاد استخدامات رمز الدعوة",
+    "codeExpired": "انتهت صلاحية رمز الدعوة",
+    "alreadyUsed": "لقد استخدمت هذا الرمز من قبل",
+    "error": "حدث خطأ أثناء تفعيل الرمز. حاول مرة أخرى."
+  }
+}

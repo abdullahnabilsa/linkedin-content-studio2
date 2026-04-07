@@ -1,0 +1,96 @@
+{
+  "chat": {
+    "formats": {
+      "default": "افتراضي",
+      "defaultDescription": "دع الذكاء الاصطناعي يختار التنسيق",
+      "story": "قصة",
+      "storyDescription": "هيكل سردي مع خطاف وصراع ودرس",
+      "listicle": "قائمة",
+      "listicleDescription": "قائمة مرقمة مع نقاط رئيسية",
+      "qa": "سؤال وجواب",
+      "qaDescription": "تنسيق الأسئلة والأجوبة",
+      "tip": "نصيحة",
+      "tipDescription": "نصيحة مباشرة وعملية",
+      "before_after": "قبل/بعد",
+      "before_afterDescription": "إظهار التحول والمقارنة",
+      "statistics": "إحصائيات",
+      "statisticsDescription": "قيادة بالبيانات والأرقام"
+    },
+    "score": {
+      "title": "تقييم LinkedIn",
+      "hookPower": "قوة الخطاف",
+      "readability": "سهولة القراءة",
+      "callToAction": "دعوة للعمل",
+      "formatting": "التنسيق",
+      "hashtagUsage": "استخدام الهاشتاج",
+      "engagement": "إمكانية التفاعل",
+      "length": "الطول",
+      "tips": "نصائح للتحسين",
+      "improve": "تحسين تلقائي",
+      "copyPost": "نسخ المنشور"
+    },
+    "copyLinkedIn": "نسخ لـ LinkedIn",
+    "openLinkedIn": "فتح LinkedIn",
+    "copied": "تم النسخ!"
+  },
+  "onboarding": {
+    "wizard": {
+      "title": "لنخصص تجربتك",
+      "subtitle": "إعداد سريع من 3 خطوات لنتائج أفضل",
+      "industryLabel": "ما هو مجال عملك؟",
+      "selectIndustry": "اختر مجالك",
+      "other": "أخرى",
+      "customIndustry": "أدخل مجالك",
+      "jobTitleLabel": "ما هو مسماك الوظيفي؟",
+      "jobTitlePlaceholder": "مثال: مدير تسويق، مؤسس، مدرب",
+      "jobTitleHint": "يساعد هذا الذكاء الاصطناعي على فهم منظورك",
+      "goalsLabel": "ما هي أهدافك على LinkedIn؟",
+      "skip": "تخطي الآن",
+      "back": "رجوع",
+      "next": "التالي",
+      "getStarted": "ابدأ الآن!",
+      "saving": "جارِ الحفظ..."
+    },
+    "tour": {
+      "skip": "تخطي الجولة",
+      "next": "التالي",
+      "finish": "ابدأ الإنشاء!",
+      "step1Title": "شخصيات الذكاء الاصطناعي",
+      "step1Message": "اختر من شخصيات خبيرة تشكل طريقة كتابة الذكاء الاصطناعي لك.",
+      "step2Title": "اختر المنصة والنموذج",
+      "step2Message": "اختر من 7 منصات وعشرات النماذج. استخدم مفاتيحك الخاصة.",
+      "step3Title": "ابدأ الإنشاء!",
+      "step3Message": "اكتب طلبك، اختر قالب تنسيق، ودع الذكاء الاصطناعي يصنع منشورك."
+    }
+  },
+  "library": {
+    "title": "مكتبة المنشورات",
+    "subtitle": "احفظ ونظم وجدول منشوراتك على LinkedIn",
+    "searchPlaceholder": "ابحث في المنشورات...",
+    "all": "الكل",
+    "draft": "مسودة",
+    "ready": "جاهز",
+    "published": "منشور",
+    "archived": "أرشيف",
+    "empty": "لا توجد منشورات بعد",
+    "emptyHint": "احفظ المنشورات من المحادثة لبناء مكتبتك",
+    "limitReached": "ترقية للمزيد",
+    "schedule": "جدولة",
+    "delete": "حذف",
+    "confirmDelete": "اضغط مرة أخرى للتأكيد",
+    "status": {
+      "draft": "مسودة",
+      "ready": "جاهز",
+      "published": "منشور",
+      "archived": "أرشيف"
+    }
+  },
+  "calendar": {
+    "title": "تقويم المحتوى",
+    "subtitle": "خطط لجدول نشرك على LinkedIn",
+    "totalPosts": "منشور هذا الشهر",
+    "drafts": "مسودات",
+    "readyLabel": "جاهز",
+    "publishedLabel": "منشور"
+  }
+}

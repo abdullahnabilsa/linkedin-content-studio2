@@ -1,0 +1,24 @@
+# Cloudflare Worker configuration for ContentPro AI Proxy
+# Deploy with: npx wrangler deploy
+
+name = "contentpro-ai-proxy"
+main = "workers/proxy.ts"
+compatibility_date = "2024-01-01"
+
+# Worker route (update with your domain)
+# routes = [
+#   { pattern = "api.contentpro.app/*", zone_name = "contentpro.app" }
+# ]
+
+# Environment variables — set via Cloudflare dashboard or wrangler secret
+# wrangler secret put ENCRYPTION_KEY
+# wrangler secret put SUPABASE_URL
+# wrangler secret put SUPABASE_SERVICE_ROLE_KEY
+
+[vars]
+ALLOWED_ORIGIN = "https://contentpro.pages.dev"
+
+# Development settings
+[dev]
+port = 8787
+local_protocol = "http"

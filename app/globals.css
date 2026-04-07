@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-primary: #F5F5F0;
+  --text-primary: #0D4026;
+  --accent: #34D399;
+}
+
+.dark {
+  --bg-primary: #0B1210;
+  --text-primary: #F5F5F0;
+}
+
+[dir="rtl"] {
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 10px;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}

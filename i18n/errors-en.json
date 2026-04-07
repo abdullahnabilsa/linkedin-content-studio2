@@ -1,0 +1,15 @@
+{
+  "errors": {
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "The page you\u0027re looking for doesn\u0027t exist or has been moved.",
+      "cta": "Go to Chat"
+    },
+    "generic": {
+      "title": "Something Went Wrong",
+      "description": "An unexpected error occurred. Please try again or go back to the home page.",
+      "retry": "Try Again",
+      "goHome": "Go Home"
+    }
+  }
+}

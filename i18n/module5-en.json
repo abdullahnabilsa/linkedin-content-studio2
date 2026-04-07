@@ -1,0 +1,96 @@
+{
+  "chat": {
+    "formats": {
+      "default": "Default",
+      "defaultDescription": "Let AI choose the format",
+      "story": "Story",
+      "storyDescription": "Narrative arc with hook, conflict, and lesson",
+      "listicle": "Listicle",
+      "listicleDescription": "Numbered list with key points",
+      "qa": "Q&A",
+      "qaDescription": "Question and answer format",
+      "tip": "Direct Tip",
+      "tipDescription": "Actionable, practical advice",
+      "before_after": "Before/After",
+      "before_afterDescription": "Show transformation and comparison",
+      "statistics": "Statistics",
+      "statisticsDescription": "Lead with data and numbers"
+    },
+    "score": {
+      "title": "LinkedIn Score",
+      "hookPower": "Hook Power",
+      "readability": "Readability",
+      "callToAction": "Call to Action",
+      "formatting": "Formatting",
+      "hashtagUsage": "Hashtag Usage",
+      "engagement": "Engagement Potential",
+      "length": "Length",
+      "tips": "Improvement Tips",
+      "improve": "Improve Automatically",
+      "copyPost": "Copy Post"
+    },
+    "copyLinkedIn": "Copy for LinkedIn",
+    "openLinkedIn": "Open LinkedIn",
+    "copied": "Copied!"
+  },
+  "onboarding": {
+    "wizard": {
+      "title": "Let\u2019s personalise your experience",
+      "subtitle": "Quick 3-step setup for better AI results",
+      "industryLabel": "What\u2019s your industry?",
+      "selectIndustry": "Select your industry",
+      "other": "Other",
+      "customIndustry": "Enter your industry",
+      "jobTitleLabel": "What\u2019s your job title?",
+      "jobTitlePlaceholder": "e.g. Marketing Manager, CEO, Coach",
+      "jobTitleHint": "This helps the AI understand your perspective",
+      "goalsLabel": "What are your LinkedIn goals?",
+      "skip": "Skip for now",
+      "back": "Back",
+      "next": "Next",
+      "getStarted": "Get Started!",
+      "saving": "Saving..."
+    },
+    "tour": {
+      "skip": "Skip tour",
+      "next": "Next",
+      "finish": "Start Creating!",
+      "step1Title": "Your AI Personas",
+      "step1Message": "Choose from expert personas that shape how the AI writes for you.",
+      "step2Title": "Choose Platform & Model",
+      "step2Message": "Select from 7 AI platforms and dozens of models. Use your own keys.",
+      "step3Title": "Start Creating!",
+      "step3Message": "Type your request, pick a format template, and let the AI craft your post."
+    }
+  },
+  "library": {
+    "title": "Post Library",
+    "subtitle": "Save, organise, and schedule your LinkedIn posts",
+    "searchPlaceholder": "Search posts...",
+    "all": "All",
+    "draft": "Draft",
+    "ready": "Ready",
+    "published": "Published",
+    "archived": "Archived",
+    "empty": "No posts yet",
+    "emptyHint": "Save posts from chat to build your library",
+    "limitReached": "Upgrade for more",
+    "schedule": "Schedule",
+    "delete": "Delete",
+    "confirmDelete": "Click again to confirm",
+    "status": {
+      "draft": "Draft",
+      "ready": "Ready",
+      "published": "Published",
+      "archived": "Archived"
+    }
+  },
+  "calendar": {
+    "title": "Content Calendar",
+    "subtitle": "Plan your LinkedIn posting schedule",
+    "totalPosts": "posts this month",
+    "drafts": "drafts",
+    "readyLabel": "ready",
+    "publishedLabel": "published"
+  }
+}

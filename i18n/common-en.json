@@ -1,0 +1,24 @@
+{
+  "common": {
+    "retry": "Try Again",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "confirmDialog": {
+      "typeToConfirm": "Type \"{text}\" to confirm"
+    },
+    "tokenCounter": {
+      "tooltip": "Total tokens used: {count}"
+    },
+    "messageCounter": {
+      "tooltip": "{current} of {max} messages",
+      "unlimited": "Unlimited"
+    }
+  },
+  "nav": {
+    "chat": "Chat",
+    "personas": "Personas",
+    "library": "Library",
+    "calendar": "Calendar",
+    "settings": "Settings"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "loading": "Loading...",
+    "error": "An error occurred"
+    // Add more keys as needed
+  },
+  // Additional translations for other keys
+}

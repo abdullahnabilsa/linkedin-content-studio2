@@ -1,0 +1,34 @@
+{
+  "name": "linkedin-content-studio",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "next": "14",
+    "react": "18",
+    "react-dom": "18",
+    "typescript": "^5.x",
+    "tailwindcss": "^3.x",
+    "@tailwindcss/typography": "^0.x",
+    "@tailwindcss/forms": "^0.x",
+    "@supabase/supabase-js": "^2.x",
+    "@supabase/ssr": "^0.x",
+    "zustand": "^4.x",
+    "next-intl": "^1.x",
+    "react-markdown": "^8.x",
+    "rehype-highlight": "^6.x",
+    "jspdf": "^2.x",
+    "file-saver": "^2.x",
+    "lucide-react": "^0.x",
+    "clsx": "^1.x",
+    "tailwind-merge": "^1.x",
+    "ai": "^x.x", 
+    "class-variance-authority": "^x.x",
+    "@radix-ui/react-": "*",
+    "@cloudflare/next-on-pages": "^0.x"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "personas": {
+    "page": {
+      "title": "مكتبة الشخصيات",
+      "subtitle": "اختر شخصية لتوجيه محادثاتك مع الذكاء الاصطناعي"
+    },
+    "create": {
+      "pageTitle": "إنشاء شخصية جديدة",
+      "pageSubtitle": "أنشئ شخصية مخصصة تناسب أسلوبك في الكتابة"
+    },
+    "typeBadge": {
+      "basic": "أساسي",
+      "premium": "مميز",
+      "custom": "مخصص"
+    },
+    "premiumLock": {
+      "badge": "مميز",
+      "dailyLimitTitle": "تم الوصول للحد اليومي",
+      "dailyLimitDescription": "لقد جربت {used} من {max} شخصيات مميزة اليوم. قم بالترقية للوصول غير المحدود!",
+      "alreadyTriedTitle": "تم التجربة اليوم",
+      "alreadyTriedDescription": "لقد جربت شخصية "{name}" اليوم بالفعل. جرّب مرة أخرى غداً أو قم بالترقية!",
+      "trialCounter": "{used} / {max} تجارب مستخدمة اليوم",
+      "tryTomorrow": "يتم تجديد التجارب يومياً عند منتصف الليل",
+      "upgradeButton": "الترقية للمميز",
+      "closeButton": "إغلاق"
+    },
+    "library": {
+      "searchPlaceholder": "البحث في الشخصيات...",
+      "premiumTrialInfo": "تجارب اليوم: {used}/{max} شخصيات مميزة",
+      "categoryAll": "الكل",
+      "sectionBasic": "الشخصيات الأساسية",
+      "sectionPremium": "الشخصيات المميزة",
+      "sectionCustom": "شخصياتي",
+      "premiumNote": "جرّب رسالة واحدة لكل شخصية يومياً (5 شخصيات كحد أقصى)",
+      "createNew": "إنشاء شخصية جديدة",
+      "noResults": "لا توجد نتائج",
+      "noResultsDescription": "حاول تغيير معايير البحث أو التصنيف",
+      "emptyTitle": "لا توجد شخصيات بعد",
+      "emptyDescription": "لم يتم إنشاء أي شخصيات حتى الآن. يمكنك إنشاء شخصية مخصصة خاصة بك!",
+      "errorTitle": "خطأ في التحميل"
+    },
+    "form": {
+      "titleCreate": "إنشاء شخصية مخصصة",
+      "titleEdit": "تعديل الشخصية",
+      "subtitleCreate": "أنشئ شخصية ذكاء اصطناعي بأسلوب فريد",
+      "subtitleEdit": "عدّل إعدادات شخصيتك المخصصة",
+      "labels": {
+        "name": "اسم الشخصية",
+        "description": "الوصف",
+        "category": "التصنيف",
+        "systemPrompt": "التعليمات (System Prompt)",
+        "icon": "الأيقونة"
+      },
+      "placeholders": {
+        "name": "مثال: خبير التسويق الرقمي",
+        "description": "وصف مختصر للشخصية في جملة أو اثنتين",
+        "category": "اختر تصنيفاً",
+        "systemPrompt": "اكتب التعليمات التي توجّه سلوك الشخصية...
+
+مثال: أنت خبير في التسويق الرقمي..."
+      },
+      "hints": {
+        "systemPrompt": "هذه التعليمات توجّه الذكاء الاصطناعي ليتصرف كشخصيتك المخصصة. كن محدداً قدر الإمكان.",
+        "icon": "اختر رمزاً تعبيرياً أو أدخل رابط صورة (اختياري)"
+      },
+      "errors": {
+        "nameRequired": "اسم الشخصية مطلوب",
+        "nameTooLong": "الاسم طويل جداً (الحد الأقصى 100 حرف)",
+        "descriptionRequired": "الوصف مطلوب",
+        "systemPromptRequired": "التعليمات مطلوبة",
+        "systemPromptTooLong": "التعليمات طويلة جداً (الحد الأقصى 4000 حرف)",
+        "iconUrlInvalid": "رابط الأيقونة يجب أن يبدأ بـ https://"
+      },
+      "personaCount": "{count} / {max} شخصيات مستخدمة",
+      "upgradeForMore": "قم بالترقية لشخصيات غير محدودة",
+      "limitReached": "تم الوصول للحد الأقصى من الشخصيات المخصصة",
+      "limitDescription": "قم بالترقية إلى الخطة المميزة لإنشاء شخصيات غير محدودة",
+      "selectedIcon": "الأيقونة المختارة",
+      "clearIcon": "إزالة",
+      "showCustomUrl": "استخدام رابط صورة مخصص",
+      "hideCustomUrl": "إخفاء رابط الصورة",
+      "applyUrl": "تطبيق",
+      "buttonCreate": "إنشاء الشخصية",
+      "buttonUpdate": "حفظ التغييرات",
+      "buttonPreview": "معاينة",
+      "buttonCancel": "إلغاء",
+      "previewTitle": "معاينة الشخصية"
+    },
+    "preview": {
+      "description": "هكذا ستظهر شخصيتك في المكتبة",
+      "systemPromptLabel": "التعليمات:"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "jsx": "preserve",
+    "moduleResolution": "Node"
+  },
+  "include": ["app/**/*", "lib/**/*", "types/**/*", "utils/**/*", "stores/**/*"],
+  "exclude": ["node_modules"]
+}

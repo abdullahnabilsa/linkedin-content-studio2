@@ -1,0 +1,9 @@
+{
+  "common": {
+    "welcome": "أهلاً وسهلاً",
+    "loading": "جارٍ التحميل...",
+    "error": "حدث خطأ ما"
+    // Add more keys as needed
+  },
+  // Additional translations for other keys
+}

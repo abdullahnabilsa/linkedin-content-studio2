@@ -1,0 +1,95 @@
+{
+  "pageTitle": "Settings",
+  "tabs": {
+    "profile": "Profile",
+    "professional": "Professional Profile",
+    "apiKeys": "API Keys",
+    "language": "Language",
+    "theme": "Theme",
+    "invite": "Invite Code"
+  },
+  "common": {
+    "cancel": "Cancel"
+  },
+  "profile": {
+    "title": "Profile",
+    "description": "Manage your account information and preferences",
+    "email": "Email",
+    "displayName": "Display Name",
+    "displayNamePlaceholder": "Enter your display name",
+    "joinedAt": "Joined: {date}",
+    "profileCompletion": "Profile Completion",
+    "save": "Save Changes",
+    "saved": "Saved!",
+    "roleAdmin": "Admin",
+    "rolePremium": "Premium",
+    "roleFree": "Free",
+    "expiresAt": "Expires: {date}"
+  },
+  "professional": {
+    "title": "Professional Profile",
+    "description": "Complete your professional profile to improve AI-generated content quality",
+    "comingSoon": "Coming Soon",
+    "comingSoonDescription": "Professional profile management will be added soon"
+  },
+  "apiKeys": {
+    "title": "Private API Keys",
+    "description": "Add your own API keys for unlimited usage without rate limits",
+    "noKeys": "No API Keys",
+    "noKeysDescription": "Add your own API key to get started",
+    "addKey": "Add New Key",
+    "addKeyTitle": "Add API Key",
+    "limitReached": "Maximum keys reached",
+    "upgradeForMore": "Upgrade your plan to add more keys",
+    "refresh": "Refresh",
+    "active": "Active",
+    "inactive": "Inactive",
+    "neverUsed": "Never used",
+    "justNow": "Just now",
+    "minutesAgo": "{count} min ago",
+    "hoursAgo": "{count}h ago",
+    "daysAgo": "{count}d ago",
+    "delete": "Delete",
+    "confirmDelete": "Click again to confirm",
+    "selectPlatform": "Select Platform",
+    "keyLabel": "API Key",
+    "keyPlaceholder": "Enter your API key",
+    "labelField": "Label",
+    "labelPlaceholder": "A descriptive name for this key",
+    "formatHint": "Expected format: {format}",
+    "saving": "Saving...",
+    "save": "Save Key",
+    "addSuccess": "API key for {platform} added successfully!",
+    "allPlatformsAdded": "Keys added for all platforms",
+    "helpTitle": "How to get an API key?",
+    "helpDescription": "Click a platform name below to visit their API keys page",
+    "errors": {
+      "selectPlatform": "Select a platform first",
+      "enterKey": "Enter an API key",
+      "enterLabel": "Enter a label for the key",
+      "addFailed": "Failed to add the key. Please try again."
+    }
+  },
+  "language": {
+    "title": "Language",
+    "description": "Choose the application interface language"
+  },
+  "theme": {
+    "title": "Theme",
+    "description": "Choose your preferred appearance"
+  },
+  "invite": {
+    "title": "Invite Code",
+    "description": "Enter an invite code to upgrade to Premium",
+    "placeholder": "Enter invite code",
+    "activate": "Activate",
+    "alreadyPremium": "Your account is already Premium!",
+    "validUntil": "Valid until: {date}",
+    "success": "Invite code activated! You have been upgraded to Premium.",
+    "invalidCode": "Invalid invite code",
+    "codeExhausted": "This invite code has been fully used",
+    "codeExpired": "This invite code has expired",
+    "alreadyUsed": "You have already used this code",
+    "error": "An error occurred while activating the code. Please try again."
+  }
+}

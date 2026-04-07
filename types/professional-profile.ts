@@ -1,0 +1,31 @@
+export interface ProfessionalProfile {
+  id: string;
+  user_id: string;
+  full_name: string | null;
+  job_title: string | null;
+  company: string | null;
+  industry: string | null;
+  experience_level: string | null;
+  location: string | null;
+  expertise_areas: string[] | null;
+  key_skills: string | null;
+  notable_achievements: string | null;
+  certifications: string | null;
+  linkedin_goals: string[] | null;
+  target_audience_description: string | null;
+  target_audience_region: string | null;
+  target_audience_level: string[] | null;
+  audience_pain_points: string | null;
+  preferred_tone: string | null;
+  primary_language: string | null;
+  emoji_usage: string | null;
+  preferred_post_length: string | null;
+  writing_samples: string | null;
+  has_product: boolean;
+  product_name: string | null;
+  product_description: string | null;
+  product_url: string | null;
+  product_value_proposition: string | null;
+  created_at: string;
+  updated_at: string;
+}

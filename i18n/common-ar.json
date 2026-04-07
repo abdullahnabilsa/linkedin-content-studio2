@@ -1,0 +1,24 @@
+{
+  "common": {
+    "retry": "إعادة المحاولة",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "confirmDialog": {
+      "typeToConfirm": "اكتب \"{text}\" للتأكيد"
+    },
+    "tokenCounter": {
+      "tooltip": "إجمالي الرموز المستخدمة: {count}"
+    },
+    "messageCounter": {
+      "tooltip": "{current} من {max} رسالة",
+      "unlimited": "غير محدود"
+    }
+  },
+  "nav": {
+    "chat": "المحادثة",
+    "personas": "الشخصيات",
+    "library": "المكتبة",
+    "calendar": "التقويم",
+    "settings": "الإعدادات"
+  }
+}

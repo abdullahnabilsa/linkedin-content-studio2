@@ -1,0 +1,101 @@
+{
+  "landing": {
+    "header": {
+      "login": "Log In",
+      "register": "Sign Up"
+    },
+    "hero": {
+      "badge": "All-in-one AI Platform",
+      "titleLine1": "Create LinkedIn Content",
+      "titleLine2": "Powered by AI",
+      "description": "Use 7 AI providers with LinkedIn-specialized personas to craft professional posts, score your content, and manage your library — all in Arabic and English.",
+      "ctaPrimary": "Get Started Free",
+      "ctaSecondary": "Learn More",
+      "trust": "No credit card required • Free forever • 2-minute setup"
+    },
+    "features": {
+      "heading": "Why Choose Us?",
+      "subheading": "Everything you need to create exceptional LinkedIn content",
+      "ai": {
+        "title": "7 AI Providers",
+        "desc": "Connect with GPT-4, Claude, Gemini and more — choose the right model for every task."
+      },
+      "personas": {
+        "title": "LinkedIn Personas",
+        "desc": "Specialized AI experts that understand LinkedIn and write in your unique style."
+      },
+      "scoring": {
+        "title": "Content Scoring",
+        "desc": "Rate your posts before publishing and get actionable tips to boost engagement."
+      },
+      "library": {
+        "title": "Content Library",
+        "desc": "Save, organize, and schedule your posts in a smart library with a content calendar."
+      },
+      "bilingual": {
+        "title": "Arabic & English",
+        "desc": "Full Arabic support with RTL interface and instant language switching."
+      },
+      "affordable": {
+        "title": "Affordable",
+        "desc": "Start free forever or go premium for just $9/month."
+      }
+    },
+    "compare": {
+      "heading": "How We Compare",
+      "subheading": "A quick look at how we stack up against alternatives",
+      "feature": "Feature",
+      "competitors": "Competitors",
+      "us": "Our Platform",
+      "multiAi": "Multiple AI Providers",
+      "linkedinPersonas": "LinkedIn-Specialized Personas",
+      "contentScoring": "Content Scoring",
+      "postLibrary": "Post Library",
+      "arabicRtl": "Arabic & RTL Support",
+      "freeTier": "Permanent Free Tier",
+      "privateKeys": "Use Your Own API Keys"
+    },
+    "pricing": {
+      "heading": "Simple Pricing",
+      "subheading": "Start free, upgrade when you\u0027re ready",
+      "forever": "forever",
+      "month": "month",
+      "free": {
+        "name": "Free",
+        "tagline": "Explore & Discover",
+        "price": "Free",
+        "cta": "Get Started",
+        "f1": "15 messages per conversation",
+        "f2": "20 saved conversations",
+        "f3": "All basic personas",
+        "f4": "Try 5 premium personas daily",
+        "f5": "3 custom personas",
+        "f6": "TXT export"
+      },
+      "premium": {
+        "name": "Premium",
+        "tagline": "For Professionals",
+        "badge": "Most Popular",
+        "annual": "$79/year — save 27%",
+        "cta": "Start Premium",
+        "f1": "75 messages per conversation",
+        "f2": "Unlimited conversations",
+        "f3": "All premium personas",
+        "f4": "Unlimited custom personas",
+        "f5": "LinkedIn content scoring",
+        "f6": "Content library & calendar",
+        "f7": "PDF & Markdown export",
+        "f8": "Custom professional profile"
+      }
+    },
+    "cta": {
+      "heading": "Ready to Transform Your LinkedIn Content?",
+      "subheading": "Join hundreds of professionals using our platform daily",
+      "button": "Create Your Free Account",
+      "note": "Free setup in under 2 minutes"
+    },
+    "footer": {
+      "copyright": "All rights reserved."
+    }
+  }
+}

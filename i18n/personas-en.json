@@ -1,0 +1,92 @@
+{
+  "personas": {
+    "page": {
+      "title": "Persona Library",
+      "subtitle": "Choose a persona to guide your AI conversations"
+    },
+    "create": {
+      "pageTitle": "Create New Persona",
+      "pageSubtitle": "Create a custom persona that matches your writing style"
+    },
+    "typeBadge": {
+      "basic": "Basic",
+      "premium": "Premium",
+      "custom": "Custom"
+    },
+    "premiumLock": {
+      "badge": "Premium",
+      "dailyLimitTitle": "Daily Limit Reached",
+      "dailyLimitDescription": "You've tried {used} of {max} premium personas today. Upgrade for unlimited access!",
+      "alreadyTriedTitle": "Already Tried Today",
+      "alreadyTriedDescription": "You've already tried the \"{name}\" persona today. Try again tomorrow or upgrade!",
+      "trialCounter": "{used} / {max} trials used today",
+      "tryTomorrow": "Trials reset daily at midnight",
+      "upgradeButton": "Upgrade to Premium",
+      "closeButton": "Close"
+    },
+    "library": {
+      "searchPlaceholder": "Search personas...",
+      "premiumTrialInfo": "Today's trials: {used}/{max} premium personas",
+      "categoryAll": "All",
+      "sectionBasic": "Basic Personas",
+      "sectionPremium": "Premium Personas",
+      "sectionCustom": "My Personas",
+      "premiumNote": "Try 1 message per persona per day (5 personas max)",
+      "createNew": "Create New Persona",
+      "noResults": "No results found",
+      "noResultsDescription": "Try adjusting your search or category filter",
+      "emptyTitle": "No personas yet",
+      "emptyDescription": "No personas have been created yet. You can create your own custom persona!",
+      "errorTitle": "Loading Error"
+    },
+    "form": {
+      "titleCreate": "Create Custom Persona",
+      "titleEdit": "Edit Persona",
+      "subtitleCreate": "Create an AI persona with a unique style",
+      "subtitleEdit": "Update your custom persona settings",
+      "labels": {
+        "name": "Persona Name",
+        "description": "Description",
+        "category": "Category",
+        "systemPrompt": "System Prompt",
+        "icon": "Icon"
+      },
+      "placeholders": {
+        "name": "e.g., Digital Marketing Expert",
+        "description": "A brief description in one or two sentences",
+        "category": "Select a category",
+        "systemPrompt": "Write the instructions that guide the persona's behavior...\n\nExample: You are a digital marketing expert..."
+      },
+      "hints": {
+        "systemPrompt": "These instructions guide the AI to behave as your custom persona. Be as specific as possible.",
+        "icon": "Choose an emoji or enter an image URL (optional)"
+      },
+      "errors": {
+        "nameRequired": "Persona name is required",
+        "nameTooLong": "Name is too long (max 100 characters)",
+        "descriptionRequired": "Description is required",
+        "systemPromptRequired": "System prompt is required",
+        "systemPromptTooLong": "System prompt is too long (max 4,000 characters)",
+        "iconUrlInvalid": "Icon URL must start with https://"
+      },
+      "personaCount": "{count} / {max} personas used",
+      "upgradeForMore": "Upgrade for unlimited personas",
+      "limitReached": "Custom persona limit reached",
+      "limitDescription": "Upgrade to premium to create unlimited personas",
+      "selectedIcon": "Selected icon",
+      "clearIcon": "Remove",
+      "showCustomUrl": "Use custom image URL",
+      "hideCustomUrl": "Hide image URL",
+      "applyUrl": "Apply",
+      "buttonCreate": "Create Persona",
+      "buttonUpdate": "Save Changes",
+      "buttonPreview": "Preview",
+      "buttonCancel": "Cancel",
+      "previewTitle": "Persona Preview"
+    },
+    "preview": {
+      "description": "This is how your persona will appear in the library",
+      "systemPromptLabel": "System Prompt:"
+    }
+  }
+}
